@@ -12,6 +12,7 @@ Tools:
 I used BigQuery(SQL), Google Sheets and Tableau for this project.
 
 Constraints:
+
 The listing must be a house.
 It must have 3 bedrooms.
 The cost per square meter must be listed.
